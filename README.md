@@ -1,6 +1,6 @@
 # Wiro: the Videogame
 
-Play the game: Wiro-The_Videogame.html
+Play the game: https://aguuscaam.github.io/Wiro-the-Videogame/Wiro-The_Videogame.html
 
 Proyecto grupal desarrollado para la materia de Introducción a la programación de la carrera de Diseño de Imagen y Sonido (UBA)
 
